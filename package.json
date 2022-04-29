@@ -1,0 +1,23 @@
+{
+  "name": "ARTypescript",
+  "version": "1.0.0",
+  "description": "Typescript example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandrajput007/ARTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandrajput007/ARTypescript/issues"
+  },
+  "homepage": "https://github.com/anandrajput007/ARTypescript#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
