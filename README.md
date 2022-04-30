@@ -1,2 +1,2 @@
-# ARCTypescript
+# ARTypescript
 Typescript example
